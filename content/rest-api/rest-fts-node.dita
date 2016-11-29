@@ -171,6 +171,12 @@ curl http://cbft-03:8094/api/diag > cbft-03.json</codeblock></p> <p>The <filepat
     </section>
     <section><title>Node Monitoring</title>
       <dl>
+        <dlentry id="g-api-ping">
+          <dt>GET /api/ping</dt>
+          <dd>
+            <p>Returns empty body. Used for connection keep-alive.</p>
+          </dd>
+        </dlentry>
         <dlentry id="g-api-runtime-stats">
           <dt>GET /api/runtime/stats</dt>
           <dd><p>Returns information on the node's low-level runtime stats as JSON.</p> </dd>

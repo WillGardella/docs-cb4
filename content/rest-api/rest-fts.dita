@@ -52,7 +52,8 @@
       </ul>
       </p>
       <p><b>Node Monitoring</b><ul>
-        <li><xref href="rest-fts-node.dita#topic_ykd_my4_1v/g-api-runtime-stats"/></li>
+        <li><xref href="rest-fts-node.dita#topic_ykd_my4_1v/g-api-ping"/></li>
+          <li><xref href="rest-fts-node.dita#topic_ykd_my4_1v/g-api-runtime-stats"/></li>
         <li><xref href="rest-fts-node.dita#topic_ykd_my4_1v/g-api-runtime-statsmem"/></li>
       </ul>
       </p>

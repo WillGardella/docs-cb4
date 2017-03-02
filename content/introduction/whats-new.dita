@@ -5,7 +5,7 @@
   <body> 
     <p>Couchbase Server is a comprehensive, general purpose database that supports broad set of web,
       mobile, and IoT applications. </p>
-    <p>Couchbase Server 4.6 delivers some exciting capabilities for cross datacenter replication,
+    <p>Couchbase Server 4.7 delivers some exciting capabilities for cross datacenter replication,
       security, query, tools, and application development. This release also adds support for
       Microsoft Windows 10 Anniversary Edition and Mac OS Sierra. For more information, see <xref
         href="../install/install-platforms.dita">Supported Platforms</xref>.</p>
